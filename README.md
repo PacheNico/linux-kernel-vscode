@@ -254,3 +254,6 @@ Note: The [Patchwork](https://github.com/FlorentRevest/vscode-patchwork) and
 [Git Send Email](https://github.com/FlorentRevest/vscode-git-send-email)
 extensions are homegrown and maintained in other git repositories.
 Pull-requests or bug reports are also welcome there.
+
+## LPC Talk
+[![VSCode for kernel development - Florent Revest](https://img.youtube.com/vi/nmYaSqe0fGg/0.jpg)](https://www.youtube.com/watch?v=nmYaSqe0fGg)
